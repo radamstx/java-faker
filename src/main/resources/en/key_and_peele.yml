@@ -1,0 +1,28 @@
+en:
+  faker:
+    key_and_peele:
+      first_names: [
+        "D'Marcus", "T.J", "T'Variusness", "Tyroil", "D'Squarius", "Ibrahim", "Jackmerius", "D'Isiah", "D'Jasper",
+        "Leoz Maxwell", "Javaris Jamar", "Davoin", "Hingle", "L'Carpetron", "J'Dinkalage", "Xmus Jaxon",
+        "Saggitariutt","D'Glester", "Swirvithan", "Quatro", "Ozamataz", "Beezer Twelve", "Shakiraquan T.G.I.F.",
+        "X-Wing", "Sequester", "Scoish Velociraptor", "T.J. A.J. R.J.", "Eeeee", "Donkey", "Torque", "The Player
+        Formerly Known as", "Dan"
+      ]
+      last_names: [
+         "Williums", "Juckson", "King", "Smoochie-Wallace", "Green, Jr.", "Moizoos", "Tacktheritrix",
+         "T. Billings-Clyde", "Probincrux III", "Jilliumz", "Javarison-Lamar", "Shower-Handel", "McCringleBerry",
+         "Dookmarriot", "Morgoone", "Flaxon-Waxon", "Jefferspin", "Hardunkichud", "L'Goodling-Splatt",
+         "Quatro", "Buckshank", "Washingbeard", "Carter", "@Aliciousness", "Grundelplith M.D.", "Maloish",
+         "Backslashinfourth V", "Eeeeeeeee", "Teeth", "Lewith", "Mousecop", "Smith"
+      ]
+      full_names: [
+        "D'Marcus Williums", "T.J. Juckson", "T'Variusness King", "Tyroil Smoochie-Wallace", "D'Squarius Green, Jr.",
+        "Ibrahim Moizoos", "Jackmerius Tacktheritrix", "D'Isiah T. Billings-Clyde", "D'Jasper Probincrux III", "Leoz
+        Maxwell Jilliumz", "Javaris Jamar Javarison-Lamar","Davoin Shower-Handel", "Hingle McCringleberry",
+        "L'Carpetron Dookmarriot", "J'Dinkalage Morgoone", "Xmus Jaxon Flaxon-Waxon", "Saggitariutt Jefferspin",
+        "D'Glester Hardunkichud", "Swirvithan L'Goodling-Splatt", "Quatro Quatro", "Ozamataz Buckshank",
+        "Beezer Twelve Washingbeard", "Shakiraquan T.G.I.F. Carter", "X-Wing @Aliciousness", "Sequester Grundelplith
+        M.D.", "Scoish Velociraptor Maloish", "T.J. A.J. R.J. Backslashinfourth V", "Eeeee Eeeeeeeee", "Donkey Teeth",
+        "Torque Lewith", "The Player Formerly Known as Mousecop", "Dan Smith"
+      ]
+

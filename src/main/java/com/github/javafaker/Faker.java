@@ -84,6 +84,7 @@ public class Faker {
     private final Weather weather;
     private final Lebowski lebowski;
     private final Medical medical;
+    private final KeyAndPeele keyAndPeele;
 
     public Faker() {
         this(Locale.ENGLISH);
@@ -169,6 +170,7 @@ public class Faker {
         this.lebowski = new Lebowski(this);
         this.medical = new Medical(this);
         this.country = new Country(this);
+        this.keyAndPeele = new KeyAndPeele(this);
     }
 
     /**
@@ -551,6 +553,10 @@ public class Faker {
 
     public Lebowski lebowski() {
         return lebowski;
+    }
+
+    public KeyAndPeele keyAndPeele() {
+        return keyAndPeele;
     }
 
     public Medical medical(){return medical;}
